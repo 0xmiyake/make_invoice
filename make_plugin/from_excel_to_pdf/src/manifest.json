@@ -1,0 +1,20 @@
+{
+    "manifest_version": 1,
+    "version": "1.0",
+    "type": "APP",
+    "name": {
+        "en": "Excel to PDF Plugin"
+    },
+    "description": {
+        "en": "A plugin to convert Excel files to PDF"
+    },
+    "desktop": {
+        "js": [
+            "js/desktop.js"
+        ]
+    },
+    "icon": "image/check.png",
+    "homepage_url": {
+        "en": "https://your-homepage-url.com"
+    }
+}
